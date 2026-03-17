@@ -1,0 +1,5 @@
+{
+  "name": "KidColor: AI Coloring Book Generator",
+  "description": "Create personalized coloring books for children using AI. Enter a theme and a name to generate a custom 5-page PDF coloring book.",
+  "requestFramePermissions": []
+}
